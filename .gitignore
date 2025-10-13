@@ -1,0 +1,22 @@
+# ---- Python virtual environments ----
+.venv/
+
+# ---- Environment variables ----
+.env
+
+# ---- Local dataset storage ----
+mmath_cot_1m/images/
+mmathcot1m_runtime/
+
+# ---- Python cache ----
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ---- Jupyter checkpoints ----
+.ipynb_checkpoints/
+
+# ---- OS / misc ----
+.DS_Store
+Thumbs.db
